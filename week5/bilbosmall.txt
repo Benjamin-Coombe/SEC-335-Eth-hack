@@ -1,6 +1,4 @@
-Bilbo
-Baggins
-Felowship
-Drogo
-Gondor
-Rivendell
+Samwise
+Pippin
+Frodo
+Shire

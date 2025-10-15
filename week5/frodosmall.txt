@@ -1,6 +1,3 @@
-Buckland
-Primula
-Brandywine
-Bilbo
-Gandalf
-Shire
+Strider
+String
+

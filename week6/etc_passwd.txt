@@ -1,0 +1,2 @@
+boromir:x:1006:1006::/home/boromir:/bin/bash
+galadriel:x:1007:1007::/home/galadriel:/bin/bash
